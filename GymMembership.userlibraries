@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="mongo-java-driver-2.12.3" />
+  <library name="bson-2.3" />
+  <library name="bson-2.31" />
+  <library name="bson-3.2.2" />
+</eclipse-userlibraries>
+

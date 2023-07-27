@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inherit-compiler-output="true" inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/out/test/GymMembership"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<levels>
+		<level name="mongo-java-driver-2.12.3" value="project"/>
+		<level name="bson-2.31" value="project"/>
+		<level name="bson-3.2.2" value="project"/>
+	</levels>
+</component>
